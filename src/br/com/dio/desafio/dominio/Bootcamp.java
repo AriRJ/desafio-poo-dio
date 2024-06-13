@@ -14,7 +14,7 @@ public class Bootcamp {
     private Set<Dev> devsInscritos = new HashSet<>();
     private Set<Conteudo> conteudos = new LinkedHashSet<>();
 
-
+    // Getters and Setters
     public String getNome() {
         return nome;
     }
@@ -68,3 +68,4 @@ public class Bootcamp {
         return Objects.hash(nome, descricao, dataInicial, dataFinal, devsInscritos, conteudos);
     }
 }
+

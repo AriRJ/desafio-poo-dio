@@ -150,3 +150,10 @@ Se possível:<br>
 ------------
 
 Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
+
+<h1> ******************* Melhorias no código ********************</h1>
+
+1 - Construtores: Adicionados construtores para Curso e Mentoria para facilitar a criação de objetos.
+2 - Uso de Streams: Simplificação do método calcularTotalXp() na classe Dev.
+3 - Controle de Acesso: Mantido o encapsulamento e adicionada validação no método 'progredir'().
+4 - Comentários: Adicionados comentários para documentação e clareza.
